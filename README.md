@@ -1,6 +1,6 @@
 Türkçe Açıklama
 # TeshisDestekSistemi
-Java and Rapidminer
+
 Karar destek sistemleri(KDS), verilmesi gereken kararla ilgili veriyi daha iyi anlayarak, daha etkin karar seçenekleri oluşturma, alternatifleri belirleme ve değerlendirme işlevlerine destek sağlayan ve doğru karar verme olasılığını artıran sistemlerdir. En genel anlamıyla Karar Destek Sistemleri yönetici konumundaki karar vericilerin karar vermelerine yardımcı olan sistemlerdir.
 KDS’nin temelleri 1960’lı yıllarda atılmaya başlamıştır. Bu konudaki ilk kavramlar 1971’de M. Scott Morton tarafından “Management Decision Systems (Yönetim Karar Sistemleri) başlıklı bir yazıda ele alınmıştır. Daha sonra gerek akademik, gerekse endüstriyel alanlarda araştırma-geliştirme ve uygulama çalışmaları hızla yayılmıştır.
 KDS’ler, veritabanındaki modüller aracılığıyla, çok ölçütlü ve birbirleriyle çelişen kriterler altında karar vericinin optimum çözümü elde etmesinde karar vericiye yardımcı olan, problem çözümünü hızlandıran ve kullanıcıyla etkileşimli olarak çalışan bilgisayar destekli sistemler olarak tanımlanabilmektedir. KDS’ler, veritabanına girilen verileri özetlemede ve analiz etmede karar vericiye yardımcı olmaktadır. Kısaca KDS için bir tür tahminleme yazılımı da denilebilmektedir.
@@ -69,7 +69,7 @@ Gün girildikten sonra istenilen değerlerin tamamı doldurulur ve sonuç için 
 
 
 English Description
-#DiagnosticSupportSystem
+# DiagnosticSupportSystem
 
 Decision support systems (DSS) are systems that support the functions of creating more effective decision options, determining alternatives and evaluating functions and increasing the probability of correct decision by better understanding the data about the decision to be made. In the most general sense, Decision Support Systems are systems that help decision makers in executive positions to make decisions.
 The foundations of DSS started to be laid in the 1960s. The first concepts on this subject were discussed in 1971 by M. Scott Morton in an article titled "Management Decision Systems." Later, research-development and application studies in academic and industrial fields spread rapidly.
